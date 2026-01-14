@@ -2,9 +2,9 @@
 Included in this repository are various input files and simulation trajectories associated with “Dynamic Architecture of Mycobacterial Outer Membranes Revealed by All-Atom Simulations”. Descriptions of each folder and file can be found below:
 
 asym_lipid_lib: carbohydrate restraints, structure files, and CHARMM scripts to build each lipid in an asymmetric outer membrane system.
-	MBLA: Fully Extended -Mycolic Acid
-	MBLB: Semi-Folded -Mycolic Acid
-	MBLC: Fully Folded -Mycolic Acid
+	MBLA: Fully Extended alpha-Mycolic Acid
+	MBLB: Semi-Folded alpha-Mycolic Acid
+	MBLC: Fully Folded alpha-Mycolic Acid
 	MBLD: Phthiocerol dimycocerosate (PDIM)
 	MBLE: Trehalose Dimycolate
 	MBLF: Trehalose Monomycolate
